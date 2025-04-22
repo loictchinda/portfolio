@@ -202,7 +202,7 @@ button:hover {
     width: 600px;
     height: 600px;
     border-radius: 50%;
-    background: linear-gradient(45deg,#ffe800,pink);
+    background: linear-gradient(45deg,#ffe800,pink, green);
     left: -17%;
     top: 40%;
     animation: beforeAnime 6s linear infinite;
